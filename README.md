@@ -17,7 +17,6 @@
 </h1> 
 </div>
 
----
 
 ### :woman_technologist: About Me :
 
@@ -29,6 +28,8 @@ I am a Computer Science student from Tashkent <img src="https://media.giphy.com/
 - :zap: In my free time, I learn something new, reading some books related to programming, trying to create something new program/code and etc.
 
 - :mailbox: How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Shakh707-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Shakh707)
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
