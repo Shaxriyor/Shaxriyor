@@ -1,4 +1,5 @@
 <div id="header" align="center">
+# Hi there, I'm Shakhriyor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
 <div id="badges">
@@ -11,10 +12,6 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=shaxriyor&style=flat-square&color=blue"/>
-<h1>
-  Hello world
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1> 
 </div>
 
 
