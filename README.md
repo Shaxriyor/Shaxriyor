@@ -30,8 +30,6 @@ I am a Computer Science student from Tashkent <img src="https://media.giphy.com/
 
 - :mailbox: How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Shakh707-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Shakh707)
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
