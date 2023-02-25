@@ -53,11 +53,8 @@ I am a Computer Science student from Tashkent <img src="https://media.giphy.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaxriyor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-| My GitHub Streak |
-| --- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shaxriyor&theme=neon-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) |
+| My GitHub Streak | Top Languages |
+| --- | --- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shaxriyor&theme=neon-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaxriyor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)) |
 
-| Top Languages |
-| --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaxriyor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
 
