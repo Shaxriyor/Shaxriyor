@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!-- Header -->
 <h1 align="center">Hey, I'm Shakhriyor 👋</h1>
-<h3 align="center">A Computer Science Student with a passion for gaming and coding!</h3>
+<h3 align="center">A Computer Science Student with a passion for coding and gaming!</h3>
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
