@@ -23,9 +23,10 @@
 I am a Computer Science student from Tashkent <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :student: I'm studying for a Bachelor's degree in Computer Science and Engineering at INHA university in Tashkent.
 
-- :computer: I have a strong passion for playing computer games and enjoy immersing myself in virtual worlds.
+- :computer: I have a strong passion for learning something new, watching videos related to programming, trying to create something new program/code and etc.
 
-- :zap: In my free time, I learn something new, reading some books related to programming, trying to create something new program/code and etc.
+- :zap: In my free time, I play some computer games and enjoy immersing myself in virtual worlds.
+
 
 - :mailbox: How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Shakh1707-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Shakh1707)
 
