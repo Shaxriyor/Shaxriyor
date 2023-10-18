@@ -21,7 +21,7 @@
 ### :woman_technologist: About Me :
 
 I am a Computer Science student from Tashkent <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :student: I'm studying for a Bachelor's degree in Computer Science and Engineering at INHA university in Tashkent."
+- :student: I'm studying for a Bachelor's degree in Computer Science and Engineering at INHA university in Tashkent.
 
 - :computer: I have a strong passion for playing computer games and enjoy immersing myself in virtual worlds.
 
